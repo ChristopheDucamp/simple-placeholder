@@ -1,1 +1,1 @@
-Ce projet a pour intention de présenter Shoelace
+Ce projet est un exercice git github
